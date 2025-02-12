@@ -53,7 +53,7 @@ apt-get -y install $APPS
 #if [ $VERSION = 9 ]
 #then
 #    apt-get -y install $DEP
-#    a2enmod php7.0
+#    a2enmod php8.2
 #elif [ $VERSION = 10 ]
 #then
 #    apt-get -y install $DEP2
